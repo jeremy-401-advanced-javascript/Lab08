@@ -5,7 +5,7 @@
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab08/pull/1)
 * [travis](http://xyz.com)
 
 
