@@ -14,4 +14,4 @@ class Categories extends Model {
 }
 
 module.exports = Categories; 
-// Hello
+// Hello there
